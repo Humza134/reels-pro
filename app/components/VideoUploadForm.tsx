@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import FileUpload from "./FileUpload"; // tumhara file upload component
+import FileUpload from "./FileUpload"; // Your FileUpload component
 import { apiClient } from "@/lib/api-client";
 import { IVideo } from "@/models/Video";
 
